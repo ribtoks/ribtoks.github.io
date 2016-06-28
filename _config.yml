@@ -1,5 +1,5 @@
 # Site
-title:              Moon
+title:              Ribtoks
 bio:                'Projects of one software engineer'
 description:        "Small personal website"
 reading_time:       true
@@ -41,7 +41,8 @@ sass:
 twitter:            ribtoks
 #facebook:           username
 github:             ribtoks
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:     309852/ribtoks
+#from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
