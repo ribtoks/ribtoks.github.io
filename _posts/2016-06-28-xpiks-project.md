@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Xpiks"
 date:   2016-06-28
 excerpt: "Cross platform image keywording software"
 project: true
