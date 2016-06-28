@@ -1,7 +1,10 @@
 # Site navigation links
 
+- title: Projects
+-  url: /projects/
+
 - title: Xpiks
   url: https://ribtoks.github.io/xpiks/
 
-- title: Logs Viewer
+- title: Xpiks Logs Viewer
   url: https://ribtoks.github.io/xpiks-logs-viewer/
